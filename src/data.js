@@ -4,7 +4,7 @@ export const PERSONAL = {
   firstName: "Haneesh",
   greeting: "Hello, I'm",
   tagline: "Creative",
-  profession1: "Web",
+  profession1: "Java/Web",
   profession2: "Developer",
   profileImgHome: "assets/images/home-perfil.png",
   profileImgAbout: "assets/images/profile.png",
