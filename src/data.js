@@ -16,8 +16,8 @@ export const ABOUT = {
   titleHighlight: "Creativity",
   titleRest: "Is My Passion",
   description:
-    "I'm a web developer passionate about building scalable applications and experimenting with modern technologies. Driven by curiosity and a love for problem-solving, I'm always exploring new development skills and pushing the boundaries of what I can create.",
-  boldWords: ["web developer", "problem-solving"],
+    "I'm a java/web developer passionate about building scalable applications and experimenting with modern technologies. Driven by curiosity and a love for problem-solving, I'm always exploring new development skills and pushing the boundaries of what I can create.",
+  boldWords: ["java/web developer", "problem-solving"],
 };
 
 // ── STATS ─────────────────────────────────────────────────
