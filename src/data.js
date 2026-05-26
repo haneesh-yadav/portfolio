@@ -63,7 +63,7 @@ export const PROJECTS = [
     type: "Web / Blockchain",
     title: "BhoomiSetu",
     subtitle: "Blockchain Land Records Platform",
-    tech: "React, JavaScript, Node.js, MySQL",
+    tech: "React, Java, SpringBoot, MySQL",
     highlights: [
       "Digitised land records using blockchain for tamper-proof ownership history",
       "Built end-to-end from smart-contract layer to responsive React UI",
