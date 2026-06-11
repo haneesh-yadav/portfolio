@@ -6,7 +6,7 @@ A modern, responsive developer portfolio built with **React**, featuring animate
 
 ## Live Demo
 
-[ View Portfolio](https://haneesh--portfolio.vercel.app/) <!-- Replace with your deployed URL -->
+[ View Portfolio](https://haneesh.vercel.app/) <!-- Replace with your deployed URL -->
 
 ---
 
